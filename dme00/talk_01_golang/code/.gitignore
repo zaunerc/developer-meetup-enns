@@ -1,0 +1,7 @@
+*.wasm
+*.exe
+
+# actual binaries
+main
+main-*-amd64
+server
